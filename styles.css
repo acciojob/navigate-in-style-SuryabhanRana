@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+ ul.navbar {
+            background-color: #D3D3D3;
+            padding: 10px;
+            list-style: none; /* Remove bullets from the list */
+        }
+
+        /* Style for the list items */
+        ul.navbar li {
+            display: inline; /* Display items horizontally */
+            margin-right: 1rem; /* Add spacing between items */
+        }
